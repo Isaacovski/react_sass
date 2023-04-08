@@ -1,7 +1,8 @@
+import "../styles/conponets/MainContent.sass"
 
 function MainContent() {
   return (
-    <div>MainContent</div>
+    <main id="main-content" >MainContent</main>
   )
 }
 
