@@ -1,6 +1,6 @@
 
 const aboutContainer = () => {
-  return (<section className="about-Container">
+  return <section className="about-Container">
     <h2>sobre</h2>
     <p>Lorem ipsum dolor, 
       sit amet consectetur 
@@ -20,7 +20,7 @@ const aboutContainer = () => {
              optio enim commodi eligendi, itaque 
              quia?</p>
   </section>
-  )
+  
 };
 
 export default aboutContainer
