@@ -2,7 +2,7 @@
   "name": "react_app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://{Isaacovski}.github.io/{react_sass}",
+  "homepage": "https://{isaacovski}.github.io/{react_sass}",
   "type": "module",
   "scripts": {
    "predeploy": "npm run build",
