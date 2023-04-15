@@ -5,15 +5,16 @@
   "homepage": "https://{isaacovski}.github.io/{react_sass}",
   "type": "module",
   "scripts": {
-   "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "surge": "^0.23.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
